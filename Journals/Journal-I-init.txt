@@ -1,0 +1,21 @@
+
+[x] Initialising & synchronisation of Personal GitHub repo
+
+Additional sync items:
+  ++ CSS color styles
+  ++ Thematic Components library
+  ++ CSS thematic components
+
+  ++ Progress Journals
+
+
+[x] Resolve localhost open on run
+[x] Resolve On Error, should show the error
+  *>* 'reactLogo' is defined but never used. | @typescript-eslint/no-unused-vars
+Init Thematic library
+  [x] Typography sets
+  [x] Color palettes
+
+
+
+

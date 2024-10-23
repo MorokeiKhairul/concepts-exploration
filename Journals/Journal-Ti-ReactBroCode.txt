@@ -1,0 +1,30 @@
+
+TODO Some features are missing
+  [x] On Error, should show the error
+    could this be a vite/compiler thing
+    [x] on Refresh code, updates page
+    [x] on Start, open up browser
+    [x] Remove errors to just faded out
+    
+    pointed out one of the configs to the local config set rather than recommended
+
+Procceding with Tutorial
+  Build a Increment & Decrement counter
+    [x]? Why is Secondary Button white & onHover becomes red
+  
+    todo ? Need better more general palettes
+      TODO specialised palettes 
+      [x]? How to set info, primary, secondary button colors
+        palette : 
+          { keyof color_enum: {
+            main: <main colors>,
+            dark: <on Hover colors>,
+            light: <unknown>,
+          }, ...}
+      *?* what format does this theme palette follows & what does light key handles
+
+
+      *:* React hooks
+        special functions allowing functional components without writing class components
+        + better import what is needed rather than the entire library 
+          (React import over simply useState)
